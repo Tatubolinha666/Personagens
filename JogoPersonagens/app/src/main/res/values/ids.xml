@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nome" type="id">personagem</item>
+    <item name="idade" type="id">idade</item>
+    <item name="rating" type="id">star</item>
+    <item name="imagem" type="id">img</item>
+    <item name="id_recyclerView" type="id">recyclerView</item>
+</resources>
